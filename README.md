@@ -1,3 +1,4 @@
+![](./Pic/ScreenShoot.png)
 
 
 ### 这是电脑的配置
@@ -6,7 +7,7 @@
 - **Intel HD Graphics 5500**
 - **Intel Series 9 Chipset Family**
 - **macOS Big Sur**
-- **Broadcom DW1560**
+- **Broadcom DW1560** 
 
 
 ### 推荐的**BIOS**设置
