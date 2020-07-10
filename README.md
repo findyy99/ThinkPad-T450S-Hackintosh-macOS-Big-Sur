@@ -1,4 +1,4 @@
-![](./Pic/ScreenShoot.png)
+![](./Pic/ScreenShoot.jpg)
 
 
 ### 这是电脑的配置
