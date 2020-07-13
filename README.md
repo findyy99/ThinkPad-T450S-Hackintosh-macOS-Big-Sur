@@ -24,7 +24,7 @@ CSM Support`: **Yes**.
 
 - CPU：变频良好。
 - 显卡：HD5500，驱动良好，加速可用，可mini DP 外接显示器，有Dock的接HDMI显示器。
-- 声卡：由于目前想启用DOCK的耳机接口，故采用layout-id 55，若不合适，可自行更换。
+- 声卡：采用layout-id 32，若不合适，可自行更换。
 - 触摸板：采用`VoodooSMBus`和`VoodooRMI`驱动，丝滑流畅。
 - USB：驱动良好。
 
