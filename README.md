@@ -27,7 +27,7 @@ CSM Support`: **Yes**.
 - 声卡：采用layout-id 32，若不合适，可自行更换。
 - 触摸板：采用`VoodooSMBus`和`VoodooRMI`驱动，丝滑流畅。
 - USB：驱动良好。
+- 小红点：驱动良好。
 
 ### 不工作的地方
-- SMC传感器未适配，导致CPU频率无。
 - VGA
