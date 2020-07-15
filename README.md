@@ -1,6 +1,6 @@
-![](./Pic/ScreenShoot.jpg)
-![](./Pic/trackpad.png)
-![](./Pic/battery.png)
+![关于本机](./Pic/ScreenShoot.jpg)
+![触摸板](./Pic/trackpad.png)
+![电池](./Pic/battery.png)
 ### 这是电脑的配置
 
 - **Intel 5th Generation Architecture (Broadwell)**
