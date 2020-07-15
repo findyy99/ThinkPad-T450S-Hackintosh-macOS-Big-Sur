@@ -20,6 +20,8 @@
 - `UEFI/Legacy Boot: UEFI Only;
 CSM Support`: **Yes**.
 
+### 注意！！
+安装的时候需用`FakeSMC`，安装完成可以替换为`VirtualSMC`，可在`config,plist`中更改。
 ### 工作良好的地方
 
 - CPU：变频良好。
