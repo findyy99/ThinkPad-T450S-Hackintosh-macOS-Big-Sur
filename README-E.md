@@ -1,8 +1,10 @@
+# English(current)
+
 ![关于本机](./Pic/ScreenShoot.jpg)
 ![触摸板](./Pic/trackpad.png)
 ![电池](./Pic/battery.png)
 
-# English(current) 
+ 
 ### This is the configuration of the computer
 
 - **Intel 5th Generation Architecture (Broadwell)**

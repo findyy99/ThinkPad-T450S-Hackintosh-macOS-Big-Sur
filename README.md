@@ -1,9 +1,11 @@
+# 中文(当前)
+# [English](README-E.md)
+
 ![关于本机](./Pic/ScreenShoot.jpg)
 ![触摸板](./Pic/trackpad.png)
 ![电池](./Pic/battery.png)
 
-# 中文(当前)
-#   [English](README-E.md)
+
 ### 这是电脑的配置
 
 - **Intel 5th Generation Architecture (Broadwell)**
