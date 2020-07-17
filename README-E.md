@@ -37,7 +37,7 @@
 - Sound card: use layout-id 32, if not suitable, you can replace it by yourself.
 - Touchpad: powered by `VoodooSMBus` and `VoodooRMI`, silky and smooth, can be temporarily disabled by `PrtSc`.
 - USB: works good.
-- Little red dot: works good.
+- Little red dot and threes key(I don't know how to call them): works good.
 
 ### Places not working
 - VGA
