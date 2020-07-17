@@ -5,22 +5,22 @@
 # English(current) 
 ### This is the configuration of the computer
 
--**Intel 5th Generation Architecture (Broadwell)**
--**Intel HD Graphics 5500**
--**Intel Series 9 Chipset Family**
--**macOS Big Sur**
--**Broadcom DW1560**
+- **Intel 5th Generation Architecture (Broadwell)**
+- **Intel HD Graphics 5500**
+- **Intel Series 9 Chipset Family**
+- **macOS Big Sur**
+- **Broadcom DW1560**
 
 
 ### Recommended **BIOS** settings
--`Security -> Security Chip`: **Disabled**;
--`Virtualization -> Intel Virtualization Technology`: **Enabled**;
--`Internal Device Access -> Bottom Cover Tamper Detection`:**Disabled**;
--`Anti-Theft -> Current Setting`: **Disabled**;
--`Anti-Theft -> Computrace -> Current Setting`: **Disabled**;
--`Secure Boot -> Secure Boot`: **Disabled**;
--`UEFI/Legacy Boot: UEFI Only;
-CSM Support`: **Yes**.
+- `Security -> Security Chip`: **Disabled**;
+- `Virtualization -> Intel Virtualization Technology`: **Enabled**;
+- `Internal Device Access -> Bottom Cover Tamper Detection`:**Disabled**;
+- `Anti-Theft -> Current Setting`: **Disabled**;
+- `Anti-Theft -> Computrace -> Current Setting`: **Disabled**;
+- `Secure Boot -> Secure Boot`: **Disabled**;
+- `UEFI/Legacy Boot: UEFI Only;
+- `CSM Support`: **Yes**.
 
 ## ⚠️ New installation and OTA attention! !
 
@@ -28,7 +28,7 @@ CSM Support`: **Yes**.
 - The `booter-fileset-basesystem` and `booter-fileset-kernel` parameters of `7C436110-AB2A-4BBB-A880-FE41995C9F82` in `Nvram` should be removed.
 - `csr-active-config` in `Nvram` should be set to `00000000<data>`.
 - For the above operation of `Nvram`, you can enter `nvarm -p` in the terminal to check whether the change of `nvram` is successful. Just like 
-<div align=center>![nvram](./Pic/nvram.png)
+![](/Pic/nvram.png)
 
 ###  works well
 
