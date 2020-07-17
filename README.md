@@ -20,8 +20,12 @@
 - `UEFI/Legacy Boot: UEFI Only;
 CSM Support`: **Yes**.
 
-### 注意！！
-安装的时候需用`FakeSMC`，安装完成可以替换为`VirtualSMC`，可在`config,plist`中更改。
+## ⚠️全新安装和OTA注意！！
+- 需用`FakeSMC`，安装完成可以替换为`VirtualSMC`，
+可在`config,plist`中更改。
+- `Nvram`中`7C436110-AB2A-4BBB-A880-FE41995C9F82`的`booter-fileset-basesystem`、`booter-fileset-kernel`参数应移除。
+- `Nvram`中的`csr-active-config`应设为`00000000<data>`。
+-  以上对`Nvram`操作可在终端输入`nvarm -p`检查是否更改`nvram`成功。
 ### 工作良好的地方
 
 - CPU：变频良好。
