@@ -1,4 +1,4 @@
-# attention! This readme was modified on 2020.7.18！
+# Attention! This readme was modified on 2020.7.18！
 # English(current)
 
 ![关于本机](./Pic/ScreenShoot.jpg)
