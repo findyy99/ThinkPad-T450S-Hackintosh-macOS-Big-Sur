@@ -1,4 +1,4 @@
-# Attention! This readme was modified on 2020.7.18 and just tested on `Big Sur beta2`
+# Attention! This readme was modified on 2020.7.29 and just tested on `Big Sur beta2`
 # English(current)
 
 ![关于本机](./Pic/ScreenShoot.jpg)
