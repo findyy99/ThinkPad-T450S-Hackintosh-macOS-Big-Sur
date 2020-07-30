@@ -2,7 +2,7 @@
 # 中文(当前)
 # [English](README-E.md)
 
-![关于本机](./Pic/ScreenShoot)
+![关于本机](./Pic/ScreenShoot.jpg)
 ![触摸板](./Pic/trackpad.png)
 ![电池](./Pic/battery.png)
 
