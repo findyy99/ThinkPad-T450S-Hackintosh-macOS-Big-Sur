@@ -1,3 +1,4 @@
+# ⚠️Because the individual reason, this repository will stop update!!
 # Attention! This readme was modified on 2020.7.29 and just tested on `Big Sur beta2`
 # English(current)
 
