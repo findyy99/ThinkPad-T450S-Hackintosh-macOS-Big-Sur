@@ -1,5 +1,4 @@
-# ⚠️Because of the personal reason, this repository will stop update until 2021.01.01!!
-# Attention! This readme was modified on 2020.7.29 and just tested on `Big Sur beta2`
+# 👍This repository will keep update !!
 # English(current)
 
 ![关于本机](./Pic/ScreenShoot.jpg)
@@ -26,15 +25,8 @@
 - `UEFI/Legacy Boot: UEFI Only;
 - `CSM Support`: **Yes**.
 
-## ⚠️ New installation and OTA attention! !
 
-- Requires `FakeSMC`, can be replaced with `VirtualSMC` after installation, which an be changed in `config, plist`.
-- The `booter-fileset-basesystem` and `booter-fileset-kernel` parameters of `7C436110-AB2A-4BBB-A880-FE41995C9F82` in `Nvram` should be removed.
-- `csr-active-config` in `Nvram` should be set to `00000000<data>`.
-- For the above operation of `Nvram`, you can enter `nvarm -p` in the terminal to check whether the change of `nvram` is successful. Just like 
-![](/Pic/nvram.png)
-
-###  works well
+###  Works well
 
 - CPU: Good frequency conversion.
 - Graphics card: HD5500, good drive, acceleration available, mini DP external display, HDMI display with Dock.
