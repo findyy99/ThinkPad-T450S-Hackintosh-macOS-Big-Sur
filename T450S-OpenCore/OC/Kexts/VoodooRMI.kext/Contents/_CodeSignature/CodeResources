@@ -3,78 +3,44 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict>
-		<key>Resources/VoodooSMBus.kext/Contents/Info.plist</key>
-		<data>
-		DGX1zycjRTX2+91LhvBRD+ofkZ8=
-		</data>
-		<key>Resources/VoodooSMBus.kext/Contents/MacOS/VoodooSMBus</key>
-		<data>
-		IXEVDsxN+vMu2wLwAZlwV0D8CCM=
-		</data>
-		<key>Resources/VoodooSMBus.kext/Contents/Resources/Headers/VoodooSMBusDeviceNub.hpp</key>
-		<data>
-		Gkz/vNrHlRcTeb3TNsAqUb24aZ4=
-		</data>
-		<key>Resources/VoodooSMBus.kext/Contents/_CodeSignature/CodeResources</key>
-		<data>
-		KEdn/SMYhrvgjQV0XBx1F6hqbEA=
-		</data>
-	</dict>
+	<dict/>
 	<key>files2</key>
 	<dict>
+		<key>PlugIns/RMII2C.kext</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0XEr6/3S8yXQ2x6kERfa9C4QcoU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ac351784404d40ed4a324e85ada64c75341df06e" or cdhash H"d1712bebfdd2f325d0db1ea41117daf42e107285"</string>
+		</dict>
+		<key>PlugIns/RMISMBus.kext</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			JJ/kZuPkCO/E/1yYfyD6Bm+GCHU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"1db21876a470d6d422b2d5eeae9faf4cf6b9cf43" or cdhash H"249fe466e3e408efc4ff5c987f20fa066f860875"</string>
+		</dict>
 		<key>PlugIns/VoodooInput.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			z/bqi3jHjuDwp8awimjIRz+PF1o=
+			IWkgOX6LeRknWddRTVZYrCxwYDg=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"a25f20cc1295927aa6b1e76d9f8b488040cad6c6" or cdhash H"cff6ea8b78c78ee0f0a7c6b08a68c8473f8f175a"</string>
+			<string>cdhash H"5823588c602d162972db779fc946e2b352b55ff6" or cdhash H"216920397e8b79192759d7514d5658ac2c706038"</string>
 		</dict>
-		<key>Resources/VoodooSMBus.kext/Contents/Info.plist</key>
+		<key>PlugIns/VoodooTrackpoint.kext</key>
 		<dict>
-			<key>hash</key>
+			<key>cdhash</key>
 			<data>
-			DGX1zycjRTX2+91LhvBRD+ofkZ8=
+			AIcQ+GiFs7cNJTCINbpi9ZgMS3Y=
 			</data>
-			<key>hash2</key>
-			<data>
-			/JmxjWrs0JwM7bm0BekwPg5LNOlVDJzMo+UXlqgjUwc=
-			</data>
-		</dict>
-		<key>Resources/VoodooSMBus.kext/Contents/MacOS/VoodooSMBus</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IXEVDsxN+vMu2wLwAZlwV0D8CCM=
-			</data>
-			<key>hash2</key>
-			<data>
-			fL0h3PQZx7KXrKHGrxMmMNj++ZTnZu4nICzKiBUaUgo=
-			</data>
-		</dict>
-		<key>Resources/VoodooSMBus.kext/Contents/Resources/Headers/VoodooSMBusDeviceNub.hpp</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Gkz/vNrHlRcTeb3TNsAqUb24aZ4=
-			</data>
-			<key>hash2</key>
-			<data>
-			OgYn96uJNktmjX+20pkPJEVgMAFTgyFCGxbanbDpdzA=
-			</data>
-		</dict>
-		<key>Resources/VoodooSMBus.kext/Contents/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KEdn/SMYhrvgjQV0XBx1F6hqbEA=
-			</data>
-			<key>hash2</key>
-			<data>
-			BgN4cDIha0rGFeM4B52IbPENLsc7y4qToe55Lvxmz0k=
-			</data>
+			<key>requirement</key>
+			<string>cdhash H"9f555e5211a84a46a27b3ed2b1751ce6dff4b464" or cdhash H"008710f86885b3b70d25308835ba62f5980c4b76"</string>
 		</dict>
 	</dict>
 	<key>rules</key>
