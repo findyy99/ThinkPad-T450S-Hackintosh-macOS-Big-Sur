@@ -1,7 +1,7 @@
 # 👍项目恢复更新！
 # 中文(当前)
 # [English](README-E.md)
-
+# OpenCore版本：0.6.6
 ![关于本机](./Pic/ScreenShoot.jpg)
 ![触摸板](./Pic/trackpad.png)
 ![电池](./Pic/battery.png)
