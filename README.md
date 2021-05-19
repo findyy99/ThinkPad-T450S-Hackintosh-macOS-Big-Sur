@@ -1,4 +1,4 @@
-# 将分支切换为从T460S移植的仓库，谢谢![simprecicchiani](https://github.com/simprecicchiani)
+# 将分支切换为从T460S移植的仓库，谢谢[simprecicchiani](https://github.com/simprecicchiani)
 # 中文(当前)
 # [English](README-E.md)
 # OpenCore版本：0.6.9
