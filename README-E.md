@@ -1,10 +1,11 @@
-# 👍This repository will keep update !!
+# Thanks to [simprecicchiani](https://github.com/simprecicchiani), had move to T460s branch to add support for YogaSMC!
 # English(current)
-# OpenCore Version: 0.6.6
-![关于本机](./Pic/ScreenShoot.jpg)
-![触摸板](./Pic/trackpad.png)
-![电池](./Pic/battery.png)
-
+# OpenCore Version: 0.6.9
+![About this Mac](./Pic/ScreenShoot.jpg)
+![TouchPad](./Pic/trackpad.png)
+![Battery](./Pic/battery.png)
+![YogaSMC](./Pic/pane.png)
+![YogaSMCNC](./Pic/pane.png)
  
 ### This is the configuration of the computer
 
@@ -22,7 +23,7 @@
 - `Anti-Theft -> Current Setting`: **Disabled**;
 - `Anti-Theft -> Computrace -> Current Setting`: **Disabled**;
 - `Secure Boot -> Secure Boot`: **Disabled**;
-- `UEFI/Legacy Boot: UEFI Only;
+- `UEFI/Legacy Boot`: **UEFI Only**;
 - `CSM Support`: **Yes**.
 
 

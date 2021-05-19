@@ -1,11 +1,15 @@
-# 👍项目恢复更新！
+# 将分支切换为从T460S移植的仓库，谢谢![simprecicchiani](https://github.com/simprecicchiani)
 # 中文(当前)
 # [English](README-E.md)
-# OpenCore版本：0.6.6
+# OpenCore版本：0.6.9
 ![关于本机](./Pic/ScreenShoot.jpg)
 ![触摸板](./Pic/trackpad.png)
 ![电池](./Pic/battery.png)
+![YogaSMC](./Pic/pane.png)
+![YogaSMCNC](./Pic/pane.png)
 
+### 新特性
+- 增加了对YogaSMC功能的部分支持。
 
 ### 这是电脑的配置
 
@@ -23,7 +27,7 @@
 - `Anti-Theft -> Current Setting`: **Disabled**;
 - `Anti-Theft -> Computrace -> Current Setting`: **Disabled**;
 - `Secure Boot -> Secure Boot`: **Disabled**;
-- `UEFI/Legacy Boot: UEFI Only;
+- `UEFI/Legacy Boot`: **UEFI Only**;
 - `CSM Support`: **Yes**.
 
 ### 工作良好的地方
